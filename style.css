@@ -1,0 +1,24 @@
+*{
+    margin: 0
+    padding 0;
+    box-sizing: border-box;
+}
+.but1{
+    background-color: orange;
+}
+
+.amazon{
+    padding-left: 35%
+}
+
+.footer-content{
+    height: auto;
+text-align: center;
+
+}
+
+.lead{
+    text-align: center;
+
+}
+
